@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="billLabel">Bill Amount</string>
+    <string name="percentLabel">Percent</string>
+    <string name="tipLabel">Tip</string>
+    <string name="totalLabel">Total</string>
+    <string name="roundingLabel">Rounding</string>
+    <string name="splitBilLabel">Split Bill?</string>
+    <string name="perPersonLabel">Per Person</string>
+    <string name="noneRadioLabel">None</string>
+    <string-array name="splitSpinner">
+        <item>None</item>
+        <item>Two Ways</item>
+        <item>Three Ways</item>
+        <item>Four Ways</item>
+    </string-array>
+    <string name="applyButtonLabel">Apply</string>
+    <string name="defaultNumberLabel">$0.00</string>
+    <string name="defaultPercentNumberLabel">10%</string>
+    <string name="subtractPercentButton">-</string>
+    <string name="addPercentButton">+</string>
+</resources>
